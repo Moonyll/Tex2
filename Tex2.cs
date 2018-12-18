@@ -13,6 +13,7 @@ namespace ConsoleApp2
         string[] jours = new string[] { "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche" };
         Console.WriteLine(jours[1]);
         Console.WriteLine(jours[4]);
+            // Console.WriteLine(week[1]+ "\n" +week[4]);
 
         }
     }
